@@ -1,4 +1,4 @@
-# Copy FME Flags
+# Copy Flags
 
 Copy your feature flags from one project to another.  Flags with segment dependencies will not completely copy without loading dependent segments first.
 
