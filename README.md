@@ -26,7 +26,7 @@ You can get the workspace and environment id from the URL, but it's easier to go
 
 ## FUNCTION
 
-**index.js* reads the provided project and environment for feature flags and copies them, with any definition found, to a JSON file in a flags/ subdirectory.
+**index.js** reads the provided project and environment for feature flags and copies them, with any definition found, to a JSON file in a flags/ subdirectory.
 
 **load.js**
 
