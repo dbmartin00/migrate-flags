@@ -15,6 +15,7 @@ export SPLIT_WORKSPACE_ID=<source project/workspace id>
 export SPLIT_ENVIRONMENT_ID=<source environment id>
 export SPLIT_DEST_WORKSPACE_ID=<destination project/workspace id>
 export SPLIT_DEST_ENVIRONMENT_ID=<destination environment id>
+```
 
 The source and destination projects and environments are expected to exist; they are not created automatically.
 
